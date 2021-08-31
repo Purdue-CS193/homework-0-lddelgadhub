@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+## Leonardo Delgado's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## Favorite things about CS193?
+- Getting to learn new CS tools
+- The quizzes after every lecture :)
+- Optional online sessions to help out students with CS193 work
 
 ### Markdown
 
@@ -25,7 +30,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
